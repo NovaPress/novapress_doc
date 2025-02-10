@@ -1,5 +1,5 @@
 # node modules
-node_modules
+/node_modules
 
 # Log files
 *.log
@@ -8,7 +8,4 @@ node_modules
 TODOs.md
 
 # Editors
-.idea
-
-# VuePress temp directory
-.temp
+/.idea
